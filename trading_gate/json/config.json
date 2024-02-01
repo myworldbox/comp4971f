@@ -1,0 +1,67 @@
+{
+    "url": {
+        "backend": "https://myapibox.vercel.app/api/database"
+    },
+    "binance_option": {
+        "APIKEY": "",
+        "APISECRET": "",
+        "test": true,
+        "verbose": true
+    },
+    "fund": {
+        "USDT": {
+            "MIN": 50,
+            "MAX": 750,
+            "STEP": 50
+        }
+    },
+    "scanner": {
+        "depth": 100,
+        "whitelist": [
+            "USDT",
+            "BTC",
+            "MATIC",
+            "BUSD",
+            "ONE",
+            "HOT",
+            "BRL",
+            "BTT",
+            "TRX",
+            "WIN",
+            "BNB",
+            "XLM",
+            "DAI",
+            "YFI",
+            "DOGE",
+            "STRAX"
+        ]
+    },
+    "script": {
+        "max_trade": 1000,
+        "strategy": "sequential",
+        "template": [
+            "*",
+            "*",
+            "*"
+        ],
+        "fee": 0,
+        "threshold": {
+            "profit_percent": 0.3003,
+            "delay_ms": 25
+        }
+    },
+    "panel": {
+        "allow": true,
+        "row_num": 10,
+        "refresh_ms": 5000
+    },
+    "message": {
+        "verbose": "debug",
+        "beautify": true,
+        "status_refresh_min": 2
+    },
+    "web_socket": {
+        "ticket_num": 1,
+        "init_delay_ms": 200
+    }
+}

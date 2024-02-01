@@ -1,0 +1,18 @@
+{
+    "service": {
+        "provider": "google_sheet",
+        "action": "create",
+        "password": "",
+        "crypto": {
+            "name": "aria-128-cfb8",
+            "type": "encrypt"
+        },
+        "hash": [
+        ],
+        "validation": [
+        ],
+        "node": ""
+    },
+    "data": {
+    }
+}

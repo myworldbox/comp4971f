@@ -1,0 +1,995 @@
+[10/14/2023, 2:48:44 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/14/2023, 2:48:44 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/14/2023, 2:49:18 AM] [32mINFO[39m: [36mInitialized[39m
+[10/14/2023, 11:29:51 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/14/2023, 11:29:51 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/14/2023, 11:30:09 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 2:40:36 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 2:40:36 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 2:40:47 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 2:46:48 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 2:46:48 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 2:47:00 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 2:48:02 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 2:48:02 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 2:48:13 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:02:35 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:02:35 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:02:38 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:02:38 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:02:41 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:02:41 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:02:56 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:03:42 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:03:42 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:03:48 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:03:48 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:03:53 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:03:53 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:03:58 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:03:58 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:04:04 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:04:04 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:04:08 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:04:08 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:04:13 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:04:13 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:04:29 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:05:03 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:03 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:07 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:07 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:15 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:15 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:18 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:18 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:19 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:19 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:28 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:28 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:30 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:30 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:31 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:31 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:37 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:37 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:40 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:40 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:42 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:42 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:44 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:44 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:53 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:53 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:55 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:55 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:05:59 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:05:59 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:06:05 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:06:05 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:06:16 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:06:16 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:06:22 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:06:22 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:06:25 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:06:25 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:06:27 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:06:27 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:07:02 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:08:22 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:08:22 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:08:26 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:08:26 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:08:30 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:08:30 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:08:37 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:08:37 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:08:38 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:08:38 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:08:40 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:08:40 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:08:56 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:09:39 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:09:39 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:09:42 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:09:42 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:09:46 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:09:46 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:10:00 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:11:38 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:11:38 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:11:52 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:12:27 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:12:27 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:12:30 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:12:30 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:12:34 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:12:34 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:12:39 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:12:39 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:12:45 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:12:45 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:12:50 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:12:50 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:12:55 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:12:55 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:12:59 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:12:59 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:13:03 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:13:03 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:13:07 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:13:07 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:13:09 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:13:09 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:13:21 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:14:32 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:14:32 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:14:46 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:15:14 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:15:14 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:15:15 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:15:15 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:15:17 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:15:18 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:15:24 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:15:24 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:15:38 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 3:16:23 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 3:16:23 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 3:16:37 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 10:58:32 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 10:58:32 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 10:58:44 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 10:59:44 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 10:59:44 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 10:59:47 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 10:59:47 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 10:59:50 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 10:59:50 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 10:59:52 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 10:59:52 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 10:59:54 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 10:59:54 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 10:59:59 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 10:59:59 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:00:04 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:00:04 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:00:13 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:00:13 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:00:20 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:00:20 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:00:25 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:00:25 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:00:37 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 11:01:33 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:01:33 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:50:38 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:50:38 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:50:50 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 11:51:11 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:51:11 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:51:23 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 11:51:32 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:51:32 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:51:44 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 11:51:49 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:51:49 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:52:01 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 11:52:16 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:52:16 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:52:27 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 11:52:44 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 11:52:44 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 11:52:56 AM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:14:25 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:14:25 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:14:37 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:15:09 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:15:09 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:15:21 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:18:42 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:18:42 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:18:54 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:19:34 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:19:34 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:19:45 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:21:25 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:21:25 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:21:28 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:21:28 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:21:30 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:21:30 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:21:41 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:22:32 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:22:32 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:22:44 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:22:56 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:22:56 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:23:08 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:23:14 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:23:14 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:23:25 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:24:12 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:24:12 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:24:24 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:25:06 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:25:06 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:25:18 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:32:10 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:32:10 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:32:21 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:33:45 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:33:45 PM] [31mERROR[39m: [36mExecution fee (script.fee) must be a positive number[39m
+[10/15/2023, 12:33:49 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:33:49 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:34:02 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 12:44:25 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:44:25 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:44:27 PM] [31mERROR[39m: [36mOnly detected 60.64573164 USDT, but 750 USDT is required to satisfy your fund.USDT.MAX configuration[39m
+[10/15/2023, 12:45:05 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:45:05 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:45:07 PM] [31mERROR[39m: [36mOnly detected 60.64573164 USDT, but 750 USDT is required to satisfy your fund.USDT.MAX configuration[39m
+[10/15/2023, 12:45:22 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 12:45:22 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 12:45:33 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 1:07:54 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:07:54 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:08:05 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 1:11:09 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:11:12 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:11:12 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:11:14 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:11:14 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:11:23 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:11:23 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:11:31 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:11:31 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:11:33 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:11:33 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:11:41 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:11:41 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:11:52 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 1:12:00 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:12:00 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:12:05 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:12:05 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:12:12 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:12:12 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:12:28 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:12:28 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:12:35 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:12:35 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:12:41 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 1:12:41 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 1:12:52 PM] [32mINFO[39m: [36mInitialized[39m
+[10/15/2023, 10:43:50 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/15/2023, 10:43:50 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/15/2023, 10:44:01 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 1:59:15 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 1:59:15 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 1:59:27 AM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 1:41:22 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 1:41:22 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 1:41:43 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 1:43:07 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 1:43:07 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 1:43:46 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 7:26:39 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 7:26:39 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 7:26:50 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 7:27:13 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 7:27:13 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 7:27:25 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 7:30:31 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 7:30:31 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 7:30:43 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 7:31:05 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 7:31:05 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 7:31:17 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 7:33:47 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 7:33:47 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 7:33:55 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 7:33:55 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 7:34:07 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 7:43:01 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 7:43:01 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 7:43:13 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 8:05:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:05:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:05:23 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 8:53:27 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:53:27 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:53:38 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 8:53:55 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:53:55 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:53:56 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:53:56 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:54:07 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 8:54:22 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:54:22 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:54:24 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:54:24 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:54:36 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 8:54:43 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:54:43 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:54:44 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:54:44 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:54:52 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:54:52 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:55:04 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 8:55:48 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:55:48 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:55:57 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:55:57 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:56:02 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:56:02 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:56:19 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:56:19 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:56:21 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:56:21 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 8:56:33 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 8:59:59 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 8:59:59 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:00:00 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:00:00 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:00:02 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:00:02 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:00:06 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:00:06 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:00:07 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:00:07 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:00:19 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:00:36 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:00:36 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:00:37 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:00:37 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:00:49 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:14:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:14:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:14:52 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:14:52 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:14:54 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:14:54 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:14:55 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:14:55 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:15:07 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:16:29 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:16:29 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:16:42 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:22:24 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:22:24 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:22:27 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:22:27 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:22:28 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:22:28 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:22:40 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:24:28 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:24:28 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:24:30 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:24:30 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:24:43 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:42:26 PM] [32mINFO[39m: [36mAttempting to execute USDT-BTC-BNB with an age of -42 ms and expected profit of 0.3717%[39m
+[10/16/2023, 9:42:26 PM] [32mINFO[39m: [36mTest: Buying 0.00354 BTCUSDT @ market price[39m
+[10/16/2023, 9:42:26 PM] [32mINFO[39m: [36mTest: Buying 0.471 BNBBTC @ market price[39m
+[10/16/2023, 9:42:26 PM] [32mINFO[39m: [36mTest: Selling 0.471 BNBUSDT @ market price[39m
+[10/16/2023, 9:42:26 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:42:35 PM] [32mINFO[39m: [36mAttempting to execute USDT-DAI-BTC with an age of -6 ms and expected profit of 0.3210%[39m
+[10/16/2023, 9:42:35 PM] [32mINFO[39m: [36mTest: Selling 50 USDTDAI @ market price[39m
+[10/16/2023, 9:42:35 PM] [32mINFO[39m: [36mTest: Buying 0.00178 BTCDAI @ market price[39m
+[10/16/2023, 9:42:35 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 9:42:35 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:42:47 PM] [32mINFO[39m: [36mAttempting to execute USDT-BUSD-BTC with an age of -32 ms and expected profit of 0.3030%[39m
+[10/16/2023, 9:42:47 PM] [32mINFO[39m: [36mTest: Buying 50 BUSDUSDT @ market price[39m
+[10/16/2023, 9:42:47 PM] [32mINFO[39m: [36mTest: Buying 0.00178 BTCBUSD @ market price[39m
+[10/16/2023, 9:42:47 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 9:42:47 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:44:09 PM] [32mINFO[39m: [36mAttempting to execute USDT-BNB-BTC with an age of 4 ms and expected profit of 0.3002%[39m
+[10/16/2023, 9:44:09 PM] [32mINFO[39m: [36mTest: Buying 0.234 BNBUSDT @ market price[39m
+[10/16/2023, 9:44:09 PM] [32mINFO[39m: [36mTest: Selling 0.234 BNBBTC @ market price[39m
+[10/16/2023, 9:44:09 PM] [32mINFO[39m: [36mTest: Selling 0.00177 BTCUSDT @ market price[39m
+[10/16/2023, 9:44:09 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:44:14 PM] [32mINFO[39m: [36mAttempting to execute USDT-MATIC-BTC with an age of -25 ms and expected profit of 0.3003%[39m
+[10/16/2023, 9:44:14 PM] [32mINFO[39m: [36mTest: Buying 94.7 MATICUSDT @ market price[39m
+[10/16/2023, 9:44:14 PM] [32mINFO[39m: [36mTest: Selling 94.7 MATICBTC @ market price[39m
+[10/16/2023, 9:44:14 PM] [32mINFO[39m: [36mTest: Selling 0.00177 BTCUSDT @ market price[39m
+[10/16/2023, 9:44:14 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:44:14 PM] [32mINFO[39m: [36mAttempting to execute USDT-MATIC-BTC with an age of 7 ms and expected profit of 0.3121%[39m
+[10/16/2023, 9:44:14 PM] [32mINFO[39m: [36mTest: Buying 94.7 MATICUSDT @ market price[39m
+[10/16/2023, 9:44:14 PM] [32mINFO[39m: [36mTest: Selling 94.7 MATICBTC @ market price[39m
+[10/16/2023, 9:44:14 PM] [32mINFO[39m: [36mTest: Selling 0.00177 BTCUSDT @ market price[39m
+[10/16/2023, 9:44:14 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:44:15 PM] [32mINFO[39m: [36mAttempting to execute USDT-BNB-BTC with an age of -39 ms and expected profit of 0.3058%[39m
+[10/16/2023, 9:44:15 PM] [32mINFO[39m: [36mTest: Buying 0.234 BNBUSDT @ market price[39m
+[10/16/2023, 9:44:15 PM] [32mINFO[39m: [36mTest: Selling 0.234 BNBBTC @ market price[39m
+[10/16/2023, 9:44:15 PM] [32mINFO[39m: [36mTest: Selling 0.00177 BTCUSDT @ market price[39m
+[10/16/2023, 9:44:15 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:44:15 PM] [32mINFO[39m: [36mAttempting to execute USDT-TRX-BTC with an age of -37 ms and expected profit of 0.3044%[39m
+[10/16/2023, 9:44:15 PM] [32mINFO[39m: [36mTest: Buying 565.6 TRXUSDT @ market price[39m
+[10/16/2023, 9:44:15 PM] [32mINFO[39m: [36mTest: Selling 566 TRXBTC @ market price[39m
+[10/16/2023, 9:44:15 PM] [32mINFO[39m: [36mTest: Selling 0.00177 BTCUSDT @ market price[39m
+[10/16/2023, 9:44:15 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:44:16 PM] [32mINFO[39m: [36mAttempting to execute USDT-TRX-BTC with an age of -43 ms and expected profit of 0.3058%[39m
+[10/16/2023, 9:44:16 PM] [32mINFO[39m: [36mTest: Buying 565.5 TRXUSDT @ market price[39m
+[10/16/2023, 9:44:16 PM] [32mINFO[39m: [36mTest: Selling 566 TRXBTC @ market price[39m
+[10/16/2023, 9:44:16 PM] [32mINFO[39m: [36mTest: Selling 0.00177 BTCUSDT @ market price[39m
+[10/16/2023, 9:44:16 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:45:29 PM] [32mINFO[39m: [36mAttempting to execute USDT-BTC-BUSD with an age of -35 ms and expected profit of 0.3040%[39m
+[10/16/2023, 9:45:29 PM] [32mINFO[39m: [36mTest: Buying 0.00176 BTCUSDT @ market price[39m
+[10/16/2023, 9:45:29 PM] [32mINFO[39m: [36mTest: Selling 0.00176 BTCBUSD @ market price[39m
+[10/16/2023, 9:45:29 PM] [32mINFO[39m: [36mTest: Selling 50 BUSDUSDT @ market price[39m
+[10/16/2023, 9:45:29 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:45:55 PM] [32mINFO[39m: [36mAttempting to execute USDT-BTC-BUSD with an age of -35 ms and expected profit of 0.3017%[39m
+[10/16/2023, 9:45:55 PM] [32mINFO[39m: [36mTest: Buying 0.00176 BTCUSDT @ market price[39m
+[10/16/2023, 9:45:55 PM] [32mINFO[39m: [36mTest: Selling 0.00176 BTCBUSD @ market price[39m
+[10/16/2023, 9:45:55 PM] [32mINFO[39m: [36mTest: Selling 50 BUSDUSDT @ market price[39m
+[10/16/2023, 9:45:55 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:45:56 PM] [32mINFO[39m: [36mAttempting to execute USDT-BTC-BUSD with an age of -12 ms and expected profit of 0.3016%[39m
+[10/16/2023, 9:45:56 PM] [32mINFO[39m: [36mTest: Buying 0.00176 BTCUSDT @ market price[39m
+[10/16/2023, 9:45:56 PM] [32mINFO[39m: [36mTest: Selling 0.00176 BTCBUSD @ market price[39m
+[10/16/2023, 9:45:56 PM] [32mINFO[39m: [36mTest: Selling 50 BUSDUSDT @ market price[39m
+[10/16/2023, 9:45:56 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:45:56 PM] [32mINFO[39m: [36mAttempting to execute USDT-BTC-BUSD with an age of -35 ms and expected profit of 0.3026%[39m
+[10/16/2023, 9:45:56 PM] [32mINFO[39m: [36mTest: Buying 0.00176 BTCUSDT @ market price[39m
+[10/16/2023, 9:45:56 PM] [32mINFO[39m: [36mTest: Selling 0.00176 BTCBUSD @ market price[39m
+[10/16/2023, 9:45:56 PM] [32mINFO[39m: [36mTest: Selling 50 BUSDUSDT @ market price[39m
+[10/16/2023, 9:45:56 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:46:10 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:46:10 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:46:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:46:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:46:23 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:48:36 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:48:36 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:48:47 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:50:20 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:50:20 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:50:21 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:50:21 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:50:24 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:50:24 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:50:25 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:50:25 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:50:37 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:51:49 PM] [32mINFO[39m: [36mAttempting to execute USDT-STRAX-BTC with an age of -52 ms and expected profit of 0.3258%[39m
+[10/16/2023, 9:51:49 PM] [32mINFO[39m: [36mTest: Buying 45.5 STRAXUSDT @ market price[39m
+[10/16/2023, 9:51:49 PM] [32mINFO[39m: [36mTest: Selling 45.5 STRAXBTC @ market price[39m
+[10/16/2023, 9:51:49 PM] [32mINFO[39m: [36mTest: Selling 0.00179 BTCUSDT @ market price[39m
+[10/16/2023, 9:51:50 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:53:56 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:53:56 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:54:00 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:54:00 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:54:01 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:54:01 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:54:13 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:55:38 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:55:38 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:55:39 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:55:39 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:55:40 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:55:40 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:55:52 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:57:10 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:57:10 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:57:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:57:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:57:14 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:57:14 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:57:15 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 9:57:15 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 9:57:26 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 9:57:57 PM] [32mINFO[39m: [36mAttempting to execute USDT-TRX-BTC with an age of -83 ms and expected profit of 0.3053%[39m
+[10/16/2023, 9:57:57 PM] [32mINFO[39m: [36mTest: Buying 566.6 TRXUSDT @ market price[39m
+[10/16/2023, 9:57:57 PM] [32mINFO[39m: [36mTest: Selling 567 TRXBTC @ market price[39m
+[10/16/2023, 9:57:57 PM] [32mINFO[39m: [36mTest: Selling 0.00179 BTCUSDT @ market price[39m
+[10/16/2023, 9:57:57 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 9:57:57 PM] [32mINFO[39m: [36mAttempting to execute USDT-TRX-BTC with an age of -14 ms and expected profit of 0.3061%[39m
+[10/16/2023, 9:57:57 PM] [32mINFO[39m: [36mTest: Buying 566.6 TRXUSDT @ market price[39m
+[10/16/2023, 9:57:57 PM] [32mINFO[39m: [36mTest: Selling 567 TRXBTC @ market price[39m
+[10/16/2023, 9:57:57 PM] [32mINFO[39m: [36mTest: Selling 0.00179 BTCUSDT @ market price[39m
+[10/16/2023, 9:57:57 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:00:23 PM] [32mINFO[39m: [36mAttempting to execute USDT-BRL-BTC with an age of -79 ms and expected profit of 0.3036%[39m
+[10/16/2023, 10:00:23 PM] [32mINFO[39m: [36mTest: Selling 50 USDTBRL @ market price[39m
+[10/16/2023, 10:00:23 PM] [32mINFO[39m: [36mTest: Buying 0.00179 BTCBRL @ market price[39m
+[10/16/2023, 10:00:23 PM] [32mINFO[39m: [36mTest: Selling 0.00179 BTCUSDT @ market price[39m
+[10/16/2023, 10:00:23 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:02:44 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 10:02:44 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 10:02:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 10:02:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 10:02:47 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 10:02:47 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 10:02:58 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 10:10:09 PM] [32mINFO[39m: [36mAttempting to execute USDT-BUSD-BTC with an age of -61 ms and expected profit of 0.3074%[39m
+[10/16/2023, 10:10:09 PM] [32mINFO[39m: [36mTest: Buying 50 BUSDUSDT @ market price[39m
+[10/16/2023, 10:10:09 PM] [32mINFO[39m: [36mTest: Buying 0.00179 BTCBUSD @ market price[39m
+[10/16/2023, 10:10:09 PM] [32mINFO[39m: [36mTest: Selling 0.00179 BTCUSDT @ market price[39m
+[10/16/2023, 10:10:10 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:24:07 PM] [32mINFO[39m: [36mAttempting to execute USDT-BNB-BTC with an age of -13 ms and expected profit of 0.3065%[39m
+[10/16/2023, 10:24:07 PM] [32mINFO[39m: [36mTest: Buying 0.234 BNBUSDT @ market price[39m
+[10/16/2023, 10:24:07 PM] [32mINFO[39m: [36mTest: Selling 0.234 BNBBTC @ market price[39m
+[10/16/2023, 10:24:07 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:24:07 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:24:09 PM] [32mINFO[39m: [36mAttempting to execute USDT-BNB-BTC with an age of -38 ms and expected profit of 0.3043%[39m
+[10/16/2023, 10:24:09 PM] [32mINFO[39m: [36mTest: Buying 0.234 BNBUSDT @ market price[39m
+[10/16/2023, 10:24:09 PM] [32mINFO[39m: [36mTest: Selling 0.234 BNBBTC @ market price[39m
+[10/16/2023, 10:24:09 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:24:09 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:24:09 PM] [32mINFO[39m: [36mAttempting to execute USDT-BNB-BTC with an age of -55 ms and expected profit of 0.3018%[39m
+[10/16/2023, 10:24:09 PM] [32mINFO[39m: [36mTest: Buying 0.234 BNBUSDT @ market price[39m
+[10/16/2023, 10:24:09 PM] [32mINFO[39m: [36mTest: Selling 0.234 BNBBTC @ market price[39m
+[10/16/2023, 10:24:09 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:24:09 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:24:27 PM] [32mINFO[39m: [36mAttempting to execute USDT-BUSD-BTC with an age of -16 ms and expected profit of 0.3142%[39m
+[10/16/2023, 10:24:27 PM] [32mINFO[39m: [36mTest: Buying 50 BUSDUSDT @ market price[39m
+[10/16/2023, 10:24:27 PM] [32mINFO[39m: [36mTest: Buying 0.00178 BTCBUSD @ market price[39m
+[10/16/2023, 10:24:27 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:24:27 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:26:49 PM] [32mINFO[39m: [36mAttempting to execute USDT-DAI-BTC with an age of -170 ms and expected profit of 0.3047%[39m
+[10/16/2023, 10:26:49 PM] [32mINFO[39m: [36mTest: Selling 50 USDTDAI @ market price[39m
+[10/16/2023, 10:26:49 PM] [32mINFO[39m: [36mTest: Buying 0.00178 BTCDAI @ market price[39m
+[10/16/2023, 10:26:49 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:26:50 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:27:39 PM] [32mINFO[39m: [36mAttempting to execute USDT-DAI-BTC with an age of -93 ms and expected profit of 0.3081%[39m
+[10/16/2023, 10:27:39 PM] [32mINFO[39m: [36mTest: Selling 50 USDTDAI @ market price[39m
+[10/16/2023, 10:27:39 PM] [32mINFO[39m: [36mTest: Buying 0.00178 BTCDAI @ market price[39m
+[10/16/2023, 10:27:39 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:27:39 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:27:40 PM] [32mINFO[39m: [36mAttempting to execute USDT-DAI-BTC with an age of -75 ms and expected profit of 0.3081%[39m
+[10/16/2023, 10:27:40 PM] [32mINFO[39m: [36mTest: Selling 50 USDTDAI @ market price[39m
+[10/16/2023, 10:27:40 PM] [32mINFO[39m: [36mTest: Buying 0.00178 BTCDAI @ market price[39m
+[10/16/2023, 10:27:40 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:27:40 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:28:08 PM] [32mINFO[39m: [36mAttempting to execute USDT-BUSD-BTC with an age of -80 ms and expected profit of 0.3007%[39m
+[10/16/2023, 10:28:08 PM] [32mINFO[39m: [36mTest: Buying 50 BUSDUSDT @ market price[39m
+[10/16/2023, 10:28:08 PM] [32mINFO[39m: [36mTest: Buying 0.00178 BTCBUSD @ market price[39m
+[10/16/2023, 10:28:08 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:28:08 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:31:38 PM] [32mINFO[39m: [36mAttempting to execute USDT-BUSD-BTC with an age of 2 ms and expected profit of 0.3003%[39m
+[10/16/2023, 10:31:38 PM] [32mINFO[39m: [36mTest: Buying 50 BUSDUSDT @ market price[39m
+[10/16/2023, 10:31:38 PM] [32mINFO[39m: [36mTest: Buying 0.00177 BTCBUSD @ market price[39m
+[10/16/2023, 10:31:38 PM] [32mINFO[39m: [36mTest: Selling 0.00177 BTCUSDT @ market price[39m
+[10/16/2023, 10:31:39 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:32:51 PM] [32mINFO[39m: [36mAttempting to execute USDT-BRL-BTC with an age of 5 ms and expected profit of 0.3080%[39m
+[10/16/2023, 10:32:51 PM] [32mINFO[39m: [36mTest: Selling 50 USDTBRL @ market price[39m
+[10/16/2023, 10:32:51 PM] [32mINFO[39m: [36mTest: Buying 0.00177 BTCBRL @ market price[39m
+[10/16/2023, 10:32:51 PM] [32mINFO[39m: [36mTest: Selling 0.00177 BTCUSDT @ market price[39m
+[10/16/2023, 10:32:52 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:42:00 PM] [32mINFO[39m: [36mAttempting to execute USDT-BNB-BTC with an age of 3 ms and expected profit of 0.3042%[39m
+[10/16/2023, 10:42:00 PM] [32mINFO[39m: [36mTest: Buying 0.234 BNBUSDT @ market price[39m
+[10/16/2023, 10:42:00 PM] [32mINFO[39m: [36mTest: Selling 0.234 BNBBTC @ market price[39m
+[10/16/2023, 10:42:00 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:42:00 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:42:00 PM] [32mINFO[39m: [36mAttempting to execute USDT-BNB-BTC with an age of -13 ms and expected profit of 0.3042%[39m
+[10/16/2023, 10:42:00 PM] [32mINFO[39m: [36mTest: Buying 0.234 BNBUSDT @ market price[39m
+[10/16/2023, 10:42:00 PM] [32mINFO[39m: [36mTest: Selling 0.234 BNBBTC @ market price[39m
+[10/16/2023, 10:42:00 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:42:00 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 10:59:53 PM] [32mINFO[39m: [36mAttempting to execute USDT-BRL-BTC with an age of -46 ms and expected profit of 0.3137%[39m
+[10/16/2023, 10:59:53 PM] [32mINFO[39m: [36mTest: Selling 50 USDTBRL @ market price[39m
+[10/16/2023, 10:59:53 PM] [32mINFO[39m: [36mTest: Buying 0.00178 BTCBRL @ market price[39m
+[10/16/2023, 10:59:53 PM] [32mINFO[39m: [36mTest: Selling 0.00178 BTCUSDT @ market price[39m
+[10/16/2023, 10:59:53 PM] [31mERROR[39m: [36mInvalid API-key, IP, or permissions for action.[39m
+[10/16/2023, 11:07:15 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:15 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:17 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:17 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:20 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:20 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:22 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:22 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:29 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:29 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:33 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:33 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:37 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:37 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:42 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:42 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:07:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:07:57 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:08:38 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:08:38 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:08:39 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:08:39 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:08:42 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:08:42 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:08:44 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:08:44 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:08:56 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:11:16 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:11:16 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:11:18 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:11:18 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:11:19 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:11:19 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:11:31 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:13:02 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:13:02 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:13:03 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:13:03 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:13:06 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:13:06 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:13:18 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:15:45 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:15:45 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:15:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:15:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:15:48 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:15:48 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:16:00 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:16:38 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:16:38 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:16:40 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:16:40 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:16:51 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:17:47 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:17:47 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:17:48 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:17:48 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:18:00 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:18:44 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:18:44 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:18:45 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:18:45 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:18:48 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:18:48 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:18:59 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:19:09 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:19:09 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:19:21 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:20:09 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:20:09 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:20:10 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:20:10 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:20:12 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:20:12 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:20:13 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:20:13 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:20:24 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:20:24 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:20:30 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:20:30 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:20:42 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:25:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:25:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:25:12 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:25:12 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:25:14 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:25:14 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:25:19 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:25:19 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:25:31 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:26:42 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:26:42 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:26:43 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:26:43 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:26:44 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:26:44 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:26:56 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:27:33 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:27:33 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:27:46 PM] [32mINFO[39m: [36mInitialized[39m
+[10/16/2023, 11:28:35 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/16/2023, 11:28:35 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/16/2023, 11:28:47 PM] [32mINFO[39m: [36mInitialized[39m
+[10/17/2023, 2:40:41 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:40:41 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:40:59 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:40:59 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:41:10 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:41:10 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:41:28 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:41:28 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:41:50 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:41:50 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:43:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:43:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:43:53 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:43:53 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:44:40 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:44:40 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:47:16 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:47:16 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:47:47 PM] [32mINFO[39m: [36mInitialized[39m
+[10/17/2023, 2:49:53 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:49:53 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:50:14 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:50:14 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:50:27 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:50:27 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:53:59 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:53:59 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:54:00 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:54:00 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:54:07 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:54:07 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:54:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:54:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:54:39 PM] [32mINFO[39m: [36mInitialized[39m
+[10/17/2023, 2:55:04 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 2:55:04 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 2:55:32 PM] [32mINFO[39m: [36mInitialized[39m
+[10/17/2023, 3:01:06 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 3:01:06 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 3:01:36 PM] [32mINFO[39m: [36mInitialized[39m
+[10/17/2023, 7:43:22 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/17/2023, 7:43:22 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/17/2023, 7:43:35 PM] [32mINFO[39m: [36mInitialized[39m
+[10/18/2023, 2:04:01 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:04:01 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:04:16 AM] [32mINFO[39m: [36mInitialized[39m
+[10/18/2023, 2:05:53 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:05:53 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:05:57 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:05:57 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:06:10 AM] [32mINFO[39m: [36mInitialized[39m
+[10/18/2023, 2:07:59 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:07:59 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:08:06 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:08:06 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:08:08 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:08:08 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:08:21 AM] [32mINFO[39m: [36mInitialized[39m
+[10/18/2023, 2:09:58 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:09:58 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:10:01 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:10:01 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:10:14 AM] [32mINFO[39m: [36mInitialized[39m
+[10/18/2023, 2:12:40 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:12:40 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:12:42 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:12:42 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:12:55 AM] [32mINFO[39m: [36mInitialized[39m
+[10/18/2023, 2:13:33 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:13:33 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:13:41 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 2:13:41 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 2:13:54 AM] [32mINFO[39m: [36mInitialized[39m
+[10/18/2023, 10:59:32 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/18/2023, 10:59:32 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/18/2023, 10:59:43 AM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 1:15:41 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 1:15:41 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 1:15:59 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 1:16:43 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 1:16:43 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 1:16:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 1:16:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 1:17:04 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 1:22:30 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 1:22:30 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 1:22:50 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 1:23:05 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 1:23:05 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 1:23:21 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 1:34:09 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 1:34:09 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 1:35:03 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 1:35:03 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 3:51:12 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 3:51:12 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 3:51:38 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:01:05 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:01:05 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:01:17 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:02:06 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:02:06 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:02:18 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:14:12 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:14:12 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:14:14 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:14:14 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:14:16 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:14:16 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:14:20 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:14:20 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:14:31 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:15:56 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:15:56 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:15:59 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:15:59 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:16:11 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:17:40 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:17:40 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:17:52 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:20:38 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:20:38 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:20:51 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:21:37 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:21:37 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:21:50 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:22:49 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:22:49 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:22:52 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:22:52 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:22:55 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:22:55 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:22:57 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:22:57 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:23:10 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:23:59 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:23:59 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:24:11 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 9:24:18 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 9:24:18 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 9:24:30 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 10:38:18 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 10:38:18 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 10:38:30 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 10:40:23 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 10:40:23 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 10:40:24 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 10:40:24 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 10:40:37 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 10:43:48 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 10:43:48 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 10:44:00 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:10:42 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:10:42 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:10:45 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:10:45 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:10:56 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:11:04 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:11:04 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:11:07 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:11:07 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:11:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:11:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:11:57 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:15:07 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:15:07 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:15:09 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:15:09 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:15:14 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:15:14 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:15:20 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:15:20 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:15:22 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:15:22 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:15:23 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:15:23 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:15:27 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:15:27 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:15:39 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:19:25 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:19:25 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:19:36 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:26:23 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:26:23 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:26:29 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:26:29 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:26:41 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:37:40 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:37:40 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:37:42 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:37:42 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:37:47 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:37:47 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:37:59 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:38:16 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:38:16 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:38:27 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:39:20 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:39:20 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:39:31 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:39:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:39:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:39:58 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:40:34 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:40:34 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:40:37 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:40:37 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:40:50 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:40:50 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:41:02 PM] [32mINFO[39m: [36mInitialized[39m
+[10/19/2023, 11:50:29 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:50:29 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:50:30 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:50:30 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:50:39 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:50:39 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:50:42 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:50:42 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:50:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/19/2023, 11:50:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/19/2023, 11:50:58 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 12:08:29 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 12:08:29 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 12:08:31 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 12:08:31 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 12:16:01 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 12:16:01 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 12:16:12 AM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 1:25:16 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:25:16 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 1:25:45 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 1:32:51 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:32:51 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 1:33:02 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:33:02 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 1:33:13 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:33:13 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 1:33:23 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:33:23 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 1:33:35 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:33:35 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 1:33:47 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:33:47 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 1:33:59 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:33:59 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 1:34:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 1:34:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 2:18:19 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 2:18:19 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 2:18:33 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 2:56:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 2:56:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 2:57:00 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 3:08:31 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 3:08:31 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 3:08:44 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 3:09:05 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 3:09:05 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 3:09:21 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 4:22:51 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 4:22:51 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 4:23:12 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 5:35:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 5:35:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 5:35:46 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 5:35:46 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 5:36:02 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 5:50:15 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 5:50:15 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 5:50:26 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 5:50:26 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:33:27 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:33:27 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:33:38 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:33:38 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:33:49 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:33:49 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:34:00 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:34:00 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:34:10 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:34:10 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:36:55 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:36:55 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:37:06 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:37:06 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:37:17 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:37:17 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:37:27 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:37:27 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:37:38 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:37:38 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:37:48 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:37:48 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:37:59 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:37:59 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:38:10 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:38:10 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:38:50 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:38:50 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:39:32 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 9:39:32 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 9:39:44 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 10:35:56 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 10:35:56 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 10:36:12 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 10:36:12 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 10:36:28 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 11:44:11 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 11:44:11 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 11:44:23 PM] [32mINFO[39m: [36mInitialized[39m
+[10/20/2023, 11:48:56 PM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/20/2023, 11:48:56 PM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/20/2023, 11:49:08 PM] [32mINFO[39m: [36mInitialized[39m
+[10/21/2023, 12:37:58 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/21/2023, 12:37:58 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/21/2023, 12:38:00 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/21/2023, 12:38:00 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
+[10/21/2023, 12:38:05 AM] [32mINFO[39m: [36m--------------------------------------------------[39m
+[10/21/2023, 12:38:05 AM] [33mWARN[39m: [36mExecution fee (script.fee) of zero is likely incorrect[39m
